@@ -1,0 +1,14 @@
+h1, h2, ul, ol, p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1, h2 {
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+
+ul, ol {
+    background-color: rgb(205, 205, 255);  
+    color: blue;
+}

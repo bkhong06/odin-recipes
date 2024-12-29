@@ -12,3 +12,8 @@ ul, ol {
     background-color: rgb(205, 205, 255);  
     color: blue;
 }
+
+img {
+    height: 300px;
+    width: auto; 
+}
